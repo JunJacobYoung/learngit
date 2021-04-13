@@ -1,3 +1,4 @@
 learngit.txt
 from xuefengliao
 Creating a new branch is quick and simple.
+--no-ff add merge
