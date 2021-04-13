@@ -1,2 +1,2 @@
 learngit.txt
-xuefengliao
+from xuefengliao
